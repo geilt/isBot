@@ -29,7 +29,7 @@ $isBot = new isBot();
 	                	Cuz: <?php echo $isBot->why; ?>
 	                </p>
                 <?php endif; ?>
-                <p>How do we knows? Download the Source!</p>
+                <p>How do we know? Download the Source!</p>
                 <iframe src="http://ghbtns.com/github-btn.html?user=geilt&repo=isbot&type=watch&size=large"
   allowtransparency="true" frameborder="0" scrolling="0" width="90px" height="30px"></iframe>
   		<iframe src="http://ghbtns.com/github-btn.html?user=geilt&type=follow&size=large"
